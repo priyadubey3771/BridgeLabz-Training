@@ -9,6 +9,7 @@ public class DoubleOpt {
         double a = sc.nextDouble();
          System.out.print("Enter value of b: ");
         double b = sc.nextDouble();
+
          System.out.print("Enter value of c: ");
         double c = sc.nextDouble();
 		double result1, result2, result3, result4;
