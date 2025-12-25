@@ -106,3 +106,23 @@ BridgeLabz-Training/
 👉 https://github.com/priyadubey3771/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/methods
 
 -------------------------------------------------------------
+## Day 7 - Java String and Exception handling
+
+**Date:** 23-Dec-2025
+
+- Studied Java String :
+  - Create Strings, use of escape sequence, take String input
+  - String Arrays
+  - Recursive Methods
+  - String as method parameters, String class Built-In methods
+  - ASCII Character Codes
+- Studied Java Exception handling :
+  - Java Exception Hierarchy and Exception Types
+  - java.lang.RuntimeException or Unchecked Exceptions
+  - Checked Exceptions
+- Solved practice problems on Java String and Exception handling.
+- Committed and pushed solutions to the repository.
+ 🔗 **Code Link:**  
+👉 https://github.com/priyadubey3771/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/strings
+
+  -----------------------------------------------------------------------
