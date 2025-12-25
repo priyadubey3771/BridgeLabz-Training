@@ -126,3 +126,19 @@ BridgeLabz-Training/
 👉 https://github.com/priyadubey3771/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/strings
 
   -----------------------------------------------------------------------
+  ## Day 8 - Extras
+
+**Date:** 24-Dec-2025
+
+- Studied Java Built-in-functions :
+  - Date and Time
+  - Random,Math, and utility Methods
+- Studied Java String handling :
+  - Built-in-functions for string manipulation and handling
+- Solved practice problems on Java String handling and built-in-functions.
+- Solved some scenario-based problems and leetcode problems
+- Committed and pushed solutions to the repository.
+ 🔗 **Code Link:**  
+👉 https://github.com/priyadubey3771/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/extras
+
+------------------------------------------------------------------------------
