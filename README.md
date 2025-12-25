@@ -67,14 +67,28 @@ BridgeLabz-Training/
 **Date:** 19-Dec-2025
 
 - Studied Java Control Flow:
- - if Conditional Statement along with else if and final else statement
- - Java for loops and while loops
- - Java break and continue statement
- - Java switch Statement
+  - if Conditional Statement along with else if and final else statement
+  - Java for loops and while loops
+  - Java break and continue statement
+  - Java switch Statement
 - Solved practice problems on Java control flow.
 - Committed and pushed solutions to the repository.
 🔗 **Code Link:**  
 👉https://github.com/priyadubey3771/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flow
 
 ------------------------------------------------------
+## Day 5 - Java Arrays
+
+**Date:** 20-Dec-2025
+
+- Studied Java Arrays
+  - To create,access and modify an Array
+  - Java 2 Dimensional and multi-dimensional Array
+  - Using Java System error() message and exit() method
+- Solved practice problems on Java Arrays.
+- Committed and pushed solutions to the repository.
+🔗 **Code Link:**  
+👉https://github.com/priyadubey3771/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays
+
+--------------------------------------------------------
 
