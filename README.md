@@ -2,13 +2,15 @@
 
 This repository serves as a record of my daily learning and practice in Git, GitHub, and Core Java.  
 It includes well-organized practice programs, topic-wise code examples, and brief summaries of the concepts I learn each day as part of my training and self-practice.
-
+---
+## Week 1: Git, GitHub & Java Programming Fundamentals
 ### Day 1 – Git & GitHub Setup  
 **Date:** 16-Dec-2025
 
 - Installed and configured Git
 - Set up GitHub repository
 
+'''
 BridgeLabz-Training/
 ├── core-java-practice/
 │   ├── gcr-codebase/
@@ -21,7 +23,7 @@ BridgeLabz-Training/
 │   │   └── strings/
 │   ├── leet-code-codebase/
 │   ├── scenario-based/
-└── README.md
+└── README.md'''
 
 - Learned basic Git commands:
   - git init
