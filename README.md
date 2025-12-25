@@ -10,21 +10,22 @@ It includes well-organized practice programs, topic-wise code examples, and brie
 - Installed and configured Git
 - Set up GitHub repository
 
-'''
+#### 📁 Project Structure
+```text
 BridgeLabz-Training/
 ├── core-java-practice/
 │   ├── gcr-codebase/
 │   │   ├── arrays/
+│   │   ├── builtin-functions/
 │   │   ├── control-flow/
-│   │   ├── extras/
-│   │   ├── methods/
+│   │   ├── java-methods/
 │   │   ├── programming-elements/
-│   │   ├── program-prerequisites/
+│   │   ├── string-handling/
 │   │   └── strings/
 │   ├── leet-code-codebase/
-│   ├── scenario-based/
-└── README.md'''
-
+│   └── scenario-based/
+└── README.md
+```
 - Learned basic Git commands:
   - git init
   - git status
