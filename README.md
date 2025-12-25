@@ -1,6 +1,6 @@
 ## 📘 About This Repository
 
-This repository serves as a record of my daily learning and practice in Git, GitHub, and Core Java.  
+This repository serves as a record of my daily learning and practice in Git, GitHub, and Core Java. 
 It includes well-organized practice programs, topic-wise code examples, and brief summaries of the concepts I learn each day as part of my training and self-practice.
 
 -----------------------------
@@ -74,7 +74,7 @@ BridgeLabz-Training/
 - Solved practice problems on Java control flow.
 - Committed and pushed solutions to the repository.
 🔗 **Code Link:**  
-👉https://github.com/priyadubey3771/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flow
+👉 https://github.com/priyadubey3771/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flow
 
 ------------------------------------------------------
 ## Day 5 - Java Arrays
@@ -88,7 +88,21 @@ BridgeLabz-Training/
 - Solved practice problems on Java Arrays.
 - Committed and pushed solutions to the repository.
 🔗 **Code Link:**  
-👉https://github.com/priyadubey3771/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays
+👉 https://github.com/priyadubey3771/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays
 
 --------------------------------------------------------
+## Week 2: Java methods, Strings, extra problems
+### Day 6 – Java Methods
+**Date:** 22-Dec-2025
 
+- Studied Java Methods:
+  - User Defined Methods and using methods multiple times
+  - Recursive Methods
+  - Java static methods and Java Standard Library Methods 
+  - java.lang.Math class
+- Solved practice problems on java Methods.
+- Committed and pushed solutions to the repository.
+🔗 **Code Link:**  
+👉 https://github.com/priyadubey3771/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/methods
+
+-------------------------------------------------------------
