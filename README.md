@@ -2,6 +2,7 @@
 
 This repository serves as a record of my daily learning and practice in Git, GitHub, and Core Java.  
 It includes well-organized practice programs, topic-wise code examples, and brief summaries of the concepts I learn each day as part of my training and self-practice.
+
 -----------------------------
 ## Week 1: Git, GitHub & Java Programming Fundamentals
 ### Day 1 – Git & GitHub Setup  
@@ -33,6 +34,7 @@ BridgeLabz-Training/
   - git commit
   - git push
 - Successfully pushed files to GitHub
+  
 --------------------------------
 ## Day 2 – Git Practice & Basic Java Programs
 
@@ -44,7 +46,8 @@ BridgeLabz-Training/
 
 🔗 **Code Link:**  
 👉 https://github.com/priyadubey3771/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/program-prerequisites
-----------------------------------
+
+  ---------------------------------------------------------------------------
 ## Day 3 - Programming Elements in Java
 
 **Date:** 18-Dec-2025
@@ -57,5 +60,21 @@ BridgeLabz-Training/
 - Committed and pushed solutions to the repository.
 🔗 **Code Link:**  
 👉 https://github.com/priyadubey3771/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/programming-elements
-----------------------------------------
+
+----------------------------------------------
+## Day 4 - Java Control flow
+
+**Date:** 19-Dec-2025
+
+- Studied Java Control Flow:
+ - if Conditional Statement along with else if and final else statement
+ - Java for loops and while loops
+ - Java break and continue statement
+ - Java switch Statement
+- Solved practice problems on Java control flow.
+- Committed and pushed solutions to the repository.
+🔗 **Code Link:**  
+👉https://github.com/priyadubey3771/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flow
+
+------------------------------------------------------
 
