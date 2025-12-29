@@ -45,7 +45,7 @@ BridgeLabz-Training/
 - Practiced adding, committing, and pushing Java files to GitHub.
 
 🔗 **Code Link:**  
-👉 https://github.com/priyadubey3771/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/program-prerequisites
+👉 [Day 2 - program-prerequisites](https://github.com/priyadubey3771/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/program-prerequisites)
 
   ---------------------------------------------------------------------------
 ## Day 3 - Programming Elements in Java
@@ -59,7 +59,7 @@ BridgeLabz-Training/
 - Solved practice problems based on programming elements
 - Committed and pushed solutions to the repository.
 🔗 **Code Link:**  
-👉 https://github.com/priyadubey3771/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/programming-elements
+👉 [Day 3- programming-elements](https://github.com/priyadubey3771/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/programming-elements)
 
 ----------------------------------------------
 ## Day 4 - Java Control flow
@@ -74,7 +74,7 @@ BridgeLabz-Training/
 - Solved practice problems on Java control flow.
 - Committed and pushed solutions to the repository.
 🔗 **Code Link:**  
-👉 https://github.com/priyadubey3771/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flow
+👉 [Day 4- control-flow](https://github.com/priyadubey3771/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flow)
 
 ------------------------------------------------------
 ## Day 5 - Java Arrays
@@ -88,7 +88,7 @@ BridgeLabz-Training/
 - Solved practice problems on Java Arrays.
 - Committed and pushed solutions to the repository.
 🔗 **Code Link:**  
-👉 https://github.com/priyadubey3771/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays
+👉 [Day 5- arrays](https://github.com/priyadubey3771/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays)
 
 --------------------------------------------------------
 ## Week 2: Java methods, Strings, extra problems
@@ -103,7 +103,7 @@ BridgeLabz-Training/
 - Solved practice problems on java Methods.
 - Committed and pushed solutions to the repository.
 🔗 **Code Link:**  
-👉 https://github.com/priyadubey3771/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/methods
+👉 [Day 6- methods](https://github.com/priyadubey3771/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/methods)
 
 -------------------------------------------------------------
 ## Day 7 - Java String and Exception handling
@@ -123,7 +123,7 @@ BridgeLabz-Training/
 - Solved practice problems on Java String and Exception handling.
 - Committed and pushed solutions to the repository.
  🔗 **Code Link:**  
-👉 https://github.com/priyadubey3771/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/strings
+👉 [Day 7- strings](https://github.com/priyadubey3771/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/strings)
 
   -----------------------------------------------------------------------
   ## Day 8 - Extras
@@ -139,6 +139,6 @@ BridgeLabz-Training/
 - Solved some scenario-based problems and leetcode problems
 - Committed and pushed solutions to the repository.
  🔗 **Code Link:**  
-👉 https://github.com/priyadubey3771/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/extras
+👉 [Day 8- extras](https://github.com/priyadubey3771/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/extras)
 
 ------------------------------------------------------------------------------
