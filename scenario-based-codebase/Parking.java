@@ -4,10 +4,12 @@ public class Parking{
  public static void main(String args[]){
  
        Scanner sc = new Scanner(System.in);
+	   // declaring and initializing totalSlots and occupiedSlots
 	   int totalSlots = 20;
 	   int occupiedSlots = 0;
 	   int choice=0;
 	   
+	   //displaying menu until the user exits and there is free space 
 	   while( choice!=4 && occupiedSlots < totalSlots)
 	   {
 	       if(occupiedSlots==totalSlots)
@@ -15,6 +17,7 @@ public class Parking{
 		      System.out.println("Parking lot is Full!");
 			  break;
 		   }
+		   // displaying parking menu
 	      System.out.println("Parking lot menu:");
 		  System.out.println("\n1.Park Vehicle");
 		  System.out.println("\n2.Exit Vehicle");
@@ -25,6 +28,7 @@ public class Parking{
 		  
 		  switch(choice)
 		  {
+			 // parking vehicle if slot available else not
 		     case 1:
 			      {
 			         if(occupiedSlots<totalSlots)
@@ -38,6 +42,8 @@ public class Parking{
 					 }
 					 break;
 				  }
+				  
+				  //exiting vehicle if there is any vehicle
 		      case 2:
 			       { 
 				      if(occupiedSlots>0)
@@ -51,12 +57,14 @@ public class Parking{
 					  }
 					  break;
 				   }
+				   // displaying the available and occupied slots
 				case 3:
 				     {
 					     System.out.println("\noccupied slots"+ occupiedSlots);
 					     System.out.println("\nAvailable slot:" + (totalSlots-occupiedSlots));
 						 break;
 					 }
+					 //exiting successfully
 				 case 4:
 				     {
 					       System.out.println("\nExited system successfully.");
