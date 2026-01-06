@@ -42,5 +42,16 @@ It includes structured practice programs, concept-wise code organization, and da
   👉[this, static, final keywords and instanceof operator](https://github.com/priyadubey3771/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/inbuiltfunction/level1)
   
   ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+   ## Day 12 - Object Modeling, Class Diagram
+   **Date:** 30-Dec-2025
 
+   - Studied about Object Modeling
+   - Studied Class Diagram, Object Diagrams and Sequence Diagrams
+   - Solved problems related to this
+   - Commited and pushed solutions to the repository
+
+   🔗**Code Link:**
+    👉[Object modelling, Class diagram](https://github.com/priyadubey3771/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/objectmodeling) 
+    
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
