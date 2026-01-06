@@ -185,14 +185,28 @@ BridgeLabz-Training/
    ## Day 12 - Scenario-based-problems, leetcode problems, Object Modeling, Class Diagram
    **Date:** 30-Dec-2025
 
- - Studied about Object Modeling.
- - Studied Class Diagram, Object Diagrams and Sequence Diagrams
- - Solved problems related to this
- - Sloved 5 leetcode questions related to arrays
- - Solved 5 Scenario based questions
- - Commited and pushed solutions to the repository
+   - Studied about Object Modeling
+   - Studied Class Diagram, Object Diagrams and Sequence Diagrams
+   - Solved problems related to this
+   - Solved 5 Scenario based questions
+   - Commited and pushed solutions to the repository
 
    🔗**Code Link:**
     👉[Object modelling, Class diagram](https://github.com/priyadubey3771/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/objectmodeling) 👉[scenario-based-    problems](https://github.com/priyadubey3771/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
 
- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  ## Day 13 – Inheritance, Scenario-based-problems and leetcode problems
+  **Date:** 31-12-2025
+
+   - Studied Inheritance (Single Level Inheritance, Multilevel Inheritance, Hierarchical Inheritance)
+   - Studied Key Features of Inheritance
+   - Studied Method Overriding
+   - Studied Constructor Inheritance and Polymorphism in Java
+   - Solved problems related to this
+   - Solved 5 Scenario based questions
+   - Commited and pushed solutions to the repositorry
+
+   🔗**Code Link:**
+     👉[Inheritance](https://github.com/priyadubey3771/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/inheritance)👉[scenario-based-problems](https://github.com/priyadubey3771/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
+              
+ ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
