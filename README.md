@@ -54,4 +54,17 @@ It includes structured practice programs, concept-wise code organization, and da
     👉[Object modelling, Class diagram](https://github.com/priyadubey3771/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/objectmodeling) 
     
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ ## Day 13 – Inheritance
+  **Date:** 31-12-2025
 
+   - Studied Inheritance (Single Level Inheritance, Multilevel Inheritance, Hierarchical Inheritance)
+   - Studied Key Features of Inheritance
+   - Studied Method Overriding
+   - Studied Constructor Inheritance and Polymorphism in Java
+   - Solved problems related to this
+   - Commited and pushed solutions to the repositorry
+
+   🔗**Code Link:**
+     👉[Inheritance](https://github.com/priyadubey3771/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/inheritance)
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------     
