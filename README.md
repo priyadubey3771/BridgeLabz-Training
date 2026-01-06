@@ -146,12 +146,27 @@ BridgeLabz-Training/
    
   **Date:** 26-Dec-2025
 
--Studied about procedural and object oriented programming paradigms
--Studied the concept of classes and objects
--Sloved 8 leetcode questions related to arrays and strings
--Solved 3 Scenario based questions
--Commited and pushed solutions to the repository
+- Studied about procedural and object oriented programming paradigms
+- Studied the concept of classes and objects
+- Sloved leetcode questions related to arrays and strings
+- Solved 3 Scenario based questions
+- Commited and pushed solutions to the repository
+  
 🔗**Code Link:**
 👉 [Classes-and-object](https://github.com/priyadubey3771/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/classandobject)👉[Leetcode](https://github.com/priyadubey3771/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase)👉[scenario-based-problems](https://github.com/priyadubey3771/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------
+  ## Day 10 - Letcode problems, Java Constructors, Instance vs. Class Variables and Access Modifiers
+  
+ **Date:** 27-Dec-2025
+
+- Studied about Java Constructors
+- Studied the difference between Instance and Class Variables
+- Studied Access Modifiers concepts
+- Sloved leetcode questions related to arrays and strings
+- Commited and pushed solutions to the repository
+  
+🔗**Code Link:**
+👉 [Java Constructors, Instance vs. Class Variables and Access Modifiers](https://github.com/priyadubey3771/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/constructor/level1) 👉[Leetcode](https://github.com/priyadubey3771/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase) 
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------
