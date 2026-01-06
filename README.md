@@ -82,7 +82,7 @@ It includes structured practice programs, concept-wise code organization, and da
     👉[Encapsulation](https://github.com/priyadubey3771/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/encapsulation)
     
   -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-   ## Day 15 – Data Structure Introduction, LinkedList, Scenario-based problems and Leetcode
+   ## Day 15 – Scenario-based problems
    **Date** -02-01-2026
 
    - Solved 5 Scenario-based-problems of Oops
@@ -92,3 +92,13 @@ It includes structured practice programs, concept-wise code organization, and da
       👉[scenario-based-problems](https://github.com/priyadubey3771/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBased/src)
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ ## Day 16 – Scenario-based problems
+**Date** -03-01-2026
+
+  - Solved 2 Scenario-based-problems related to java-oops
+  - Commited and pushed successfuly on the repository
+
+  🔗**Code Link:**
+    👉[scenario-  based-problems](https://github.com/priyadubey3771/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBased/src)
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
