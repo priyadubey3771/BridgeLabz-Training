@@ -236,4 +236,19 @@ BridgeLabz-Training/
   🔗**Code Link:**
       👉[Data Structure Introduction and Linked List](https://github.com/priyadubey3771/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDsaConcepts/src/com/linkedlist) 👉[scenario-based-problems](https://github.com/priyadubey3771/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBased/src)
 
- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+ ## Day 16 – Stack , Queue, HashMap and Hashing Function, Scenario-based problems, Leetcode problems
+**Date** -03-01-2026
+
+  - Studied Stack
+  - Studied Queue
+  - Studied HashMap and Hashing Function
+  - Solved related problems
+  - Solved 2 Scenario-based-problems related to java-oops
+  - Sloved 2 leetcode questions related to arrays
+  - Commited and pushed successfuly on the repository
+
+   🔗**Code Link:**
+   👉[Stack, Queue, HashMap and HashFunction](https://github.com/priyadubey3771/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDsaConcepts/src/com/hashmapsandhashfunctions) 👉[scenario-  based-problems](https://github.com/priyadubey3771/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBased/src)
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------    
