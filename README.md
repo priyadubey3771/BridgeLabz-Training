@@ -213,14 +213,27 @@ BridgeLabz-Training/
   ## Day 14 – Encapsulation
   **Date** -01-01-2026
 
-  - Studied Encapsulation
-  - Studied Polymorphism
-  - Studied Interface
-  - Studied Abstract Classes
-  - Solved problems related to this
-  - Commited and pushed solutions to the repository
+   - Studied Encapsulation
+   - Studied Polymorphism
+   - Studied Interface
+   - Studied Abstract Classes
+   - Solved problems related to this
+   - Commited and pushed solutions to the repository
 
-    🔗**Code Link:**
-     👉[Encapsulation](https://github.com/priyadubey3771/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/encapsulation)
+  🔗**Code Link:**
+    👉[Encapsulation](https://github.com/priyadubey3771/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/encapsulation)
 
-    -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Day 15 – Data Structure Introduction, LinkedList, Scenario-based problems and Leetcode
+**Date** -02-01-2026
+
+   - Studied Key Features of Data Structures in Java
+   - Studied types of Data Structures in Java
+   - Studied Single Linked List, Double Linked List, Circular Linked List
+   - Solved 5 Scenario-based-problems of Oops
+   - Commited and pushed solutions to the repository
+
+  🔗**Code Link:**
+      👉[Data Structure Introduction and Linked List](https://github.com/priyadubey3771/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDsaConcepts/src/com/linkedlist) 👉[scenario-based-problems](https://github.com/priyadubey3771/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBased/src)
+
+ -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
