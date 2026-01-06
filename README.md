@@ -31,3 +31,16 @@ It includes structured practice programs, concept-wise code organization, and da
 👉 [Day 10-Java Constructors,Instance vs. Class Variables and Access Modifiers](https://github.com/priyadubey3771/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/constructor/level1)
 
 --------------------------------------------------------------------------------------------
+ ## Day 11 - this, static, final key words and instanceof operator
+  **Date:** 29-Dec-2025
+
+ - Studied about Java this, static, final key words and instanceof operators
+ - Solved problems related to this
+ - Commited and pushed solutions to the repository
+
+  🔗**Code Link:**
+  👉[this, static, final keywords and instanceof operator](https://github.com/priyadubey3771/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/inbuiltfunction/level1)
+  
+  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
