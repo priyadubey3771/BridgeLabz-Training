@@ -67,4 +67,18 @@ It includes structured practice programs, concept-wise code organization, and da
    🔗**Code Link:**
      👉[Inheritance](https://github.com/priyadubey3771/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/inheritance)
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------     
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+  ## Day 14 - Encapsulation
+  **Date** -01-01-2026
+
+   - Studied Encapsulation
+   - Studied Polymorphism
+   - Studied Interface
+   - Studied Abstract Classes
+   - Solved problems related to this
+   - Commited and pushed solutions to the repository
+
+  🔗**Code Link:**
+    👉[Encapsulation](https://github.com/priyadubey3771/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/encapsulation)
+    
+  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
