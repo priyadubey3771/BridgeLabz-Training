@@ -1,14 +1,17 @@
 # Eclipse specific files
 .metadata/
 .settings/
-.classpath/
-.project/
+.classpath
+.project
 
 # Java build output
 bin/
 target/
 
-#logs
+# JPMS
+**/module-info.java
+
+# Logs
 *.log
 
 # OS generated files
