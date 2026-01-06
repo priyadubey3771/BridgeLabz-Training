@@ -125,10 +125,10 @@ BridgeLabz-Training/
  🔗 **Code Link:**  
 👉 [Day 7- strings](https://github.com/priyadubey3771/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/strings)
 
-  -----------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------
   ## Day 8 - Extras
 
-**Date:** 24-Dec-2025
+ **Date:** 24-Dec-2025
 
 - Studied Java Built-in-functions :
   - Date and Time
@@ -138,8 +138,9 @@ BridgeLabz-Training/
 - Solved practice problems on Java String handling and built-in-functions.
 - Solved some scenario-based problems and leetcode problems
 - Committed and pushed solutions to the repository.
- 🔗 **Code Link:**  
-👉 [Day 8- extras](https://github.com/priyadubey3771/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/extras)
+  
+  🔗 **Code Link:**  
+ 👉 [Day 8- extras](https://github.com/priyadubey3771/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/extras)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------
    ## Day 9 - Letcode, Scenario-based-problems, Object Oriented concept overview and classes and objects
@@ -170,3 +171,14 @@ BridgeLabz-Training/
 👉 [Java Constructors, Instance vs. Class Variables and Access Modifiers](https://github.com/priyadubey3771/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/constructor/level1) 👉[Leetcode](https://github.com/priyadubey3771/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase) 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
+  ## Day 11 - Scenario-based-problems, this, static, final key words and instanceof operator
+  **Date:** 29-Dec-2025
+
+ - Studied about Java this, static, final key words and instanceof operators
+ - Solved 5 Scenario based questions
+ - Commited and pushed solutions to the repository
+
+  🔗**Code Link:**
+  👉[this, static, final keywords and instanceof operator](https://github.com/priyadubey3771/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/inbuiltfunction/level1)👉[scenario-based-problems](https://github.com/priyadubey3771/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
+  
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
