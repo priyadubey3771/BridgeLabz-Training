@@ -283,4 +283,19 @@ BridgeLabz-Training/
    👉[Linear Search and Binary Search, StringBuilder, StringBuffer, BufferedReader, FileReader, InputStreamReader](https://github.com/priyadubey3771/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDsaConcepts/src/com) 👉[scenario-  based-problems](https://github.com/priyadubey3771/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBased/src)
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------   
- 
+ ## Day 19 – Algorithm's Runtime Analysis & Big-O Notation, Scenario-based problems
+ **Date** - 07-01-2026
+
+   - Solved problems on Linear Search and Binary Search
+   - Studied about Runtime Analysis
+   - Understood Big-O Notation
+   - Studied Time Complexity Analysis and Space Complexity Analysis
+   - Studied Best, Worst, and Average Case Complexities
+   - Solved related problems
+   - Solved 3 Scenario-based-problems
+   - Commited and pushed successfuly on the repository
+
+  🔗**Code Link:**
+   👉[ Algorithm's Runtime Analysis & Big-O Notation](https://github.com/priyadubey3771/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDsaConcepts/src/com/runtimeanalysisandbigonotation) 👉[scenario-  based-problems](https://github.com/priyadubey3771/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBased/src)
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
