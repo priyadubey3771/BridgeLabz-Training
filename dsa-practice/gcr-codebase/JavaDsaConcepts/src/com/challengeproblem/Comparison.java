@@ -1,8 +1,7 @@
 package com.challengeproblem;
 
-	import java.io.*;
-	import java.nio.charset.StandardCharsets;
-
+import java.io.*;
+import java.nio.charset.StandardCharsets;
 public class Comparison {
    public static void main(String[] args) {
 
