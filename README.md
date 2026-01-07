@@ -251,4 +251,18 @@ BridgeLabz-Training/
    🔗**Code Link:**
    👉[Stack, Queue, HashMap and HashFunction](https://github.com/priyadubey3771/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDsaConcepts/src/com/hashmapsandhashfunctions) 👉[scenario-  based-problems](https://github.com/priyadubey3771/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBased/src)
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------    
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Day 17 – Sorting Algorithms, Scenario-based problems
+**Date** -05-01-2026
+
+  - Studied Bubble Sort
+  - Studied Insertion Sort
+  - Studied Merge Sort
+  - Studied Quick Sort
+  - Solved 2 scenario based problems related to oops concept.
+  - Commited and pushed successfuly on the repository
+
+   🔗**Code Link:**
+   👉[Sorting algorithms](https://github.com/priyadubey3771/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDsaConcepts/src/com/sorting) 👉[scenario-  based-problems](https://github.com/priyadubey3771/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBased/src)
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
