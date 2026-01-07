@@ -171,6 +171,7 @@ BridgeLabz-Training/
 👉 [Java Constructors, Instance vs. Class Variables and Access Modifiers](https://github.com/priyadubey3771/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/constructor/level1) 👉[Leetcode](https://github.com/priyadubey3771/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase) 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
+  ## Week 3: Object-oriented concepts, Data Structure and Scenario-based questions
   ## Day 11 - Scenario-based-problems, this, static, final key words and instanceof operator
   **Date:** 29-Dec-2025
 
@@ -252,6 +253,7 @@ BridgeLabz-Training/
    👉[Stack, Queue, HashMap and HashFunction](https://github.com/priyadubey3771/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDsaConcepts/src/com/hashmapsandhashfunctions) 👉[scenario-  based-problems](https://github.com/priyadubey3771/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBased/src)
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Week 4: Data Structure and Scenario-based problems
 ## Day 17 – Sorting Algorithms, Scenario-based problems
 **Date** -05-01-2026
 
@@ -266,3 +268,19 @@ BridgeLabz-Training/
    👉[Sorting algorithms](https://github.com/priyadubey3771/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDsaConcepts/src/com/sorting) 👉[scenario-  based-problems](https://github.com/priyadubey3771/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBased/src)
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Day 18 – Linear Search and Binary Search, StringBuilder, StringBuffer, BufferedReader, FileReader, InputStreamReader and Scenario-based problems
+**Date** -06-01-2026
+
+  - Studied Linear Search and Binary Search
+  - Studied StringBuilder and StringBuffer
+  - Studied BufferedReader
+  - Studied FileReader and InputStreamReader
+  - Solved related problems
+  - Solved 4 Scenario based problems related to java oops
+  - Commited and pushed successfuly on the repository
+
+   🔗**Code Link:**
+   👉[Linear Search and Binary Search, StringBuilder, StringBuffer, BufferedReader, FileReader, InputStreamReader](https://github.com/priyadubey3771/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDsaConcepts/src/com) 👉[scenario-  based-problems](https://github.com/priyadubey3771/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBased/src)
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------   
+ 
