@@ -32,8 +32,10 @@ public class CompareStringBufferWithStringBuilder {
     //Output
     System.out.println("Time taken by StringBuffer (nanoseconds): " + bufferTime);
     System.out.println("Time taken by StringBuilder (nanoseconds): " + builderTime);
-	    }
-	}
+	    
+   }
+	
+}
 
 
 
