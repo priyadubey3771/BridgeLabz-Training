@@ -111,5 +111,24 @@ It includes structured practice programs, concept-wise code organization, and da
 🔗**Code Link:**
    👉[scenario-  based-problems](https://github.com/priyadubey3771/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBased/src)
    
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------   
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+## Day 18 – Scenario-based-problems
+**Date** -06-01-2026
+
+ - Solved 4 Scenario-based-problems
+ - Commited and pushed solutions to the repository
    
+🔗**Code Link:**
+ 👉[scenario-  based-problems](https://github.com/priyadubey3771/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBased/src)
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Day 19 – Scenario-based-problems
+**Date** -07-01-2026
+
+ - Solved 3 Scenario-based-problems
+ - Commited and pushed solutions to the repository
+
+🔗**Code Link:**
+ 👉[scenario-  based-problems](https://github.com/priyadubey3771/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBased/src)
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
