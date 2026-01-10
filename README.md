@@ -309,3 +309,13 @@ BridgeLabz-Training/
   👉[scenario-  based-problems](https://github.com/priyadubey3771/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBased/src)
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Day 21 – Scenario-based problems
+**Date** - 09-01-2026
+
+ - Solved 3 Scenario-based-problems related to java-oops-practice
+ - Commited and pushed successfuly on the repository
+
+🔗**Code Link:**
+  👉[scenario-  based-problems](https://github.com/priyadubey3771/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBased/src)
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
