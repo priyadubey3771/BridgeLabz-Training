@@ -299,3 +299,13 @@ BridgeLabz-Training/
    👉[ Algorithm's Runtime Analysis & Big-O Notation](https://github.com/priyadubey3771/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDsaConcepts/src/com/runtimeanalysisandbigonotation) 👉[scenario-  based-problems](https://github.com/priyadubey3771/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBased/src)
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Day 20 – Scenario-based problems
+**Date** - 08-01-2026
+
+ - Solved 2 Scenario-based-problems related to java-oops-practice
+ - Commited and pushed successfuly on the repository
+
+🔗**Code Link:**
+  👉[scenario-  based-problems](https://github.com/priyadubey3771/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBased/src)
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
