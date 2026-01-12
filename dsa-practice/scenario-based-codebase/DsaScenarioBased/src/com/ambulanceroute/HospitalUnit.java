@@ -1,4 +1,4 @@
-package ambulanceroute;
+package com.ambulanceroute;
 
 //Node class representing a hospital unit
 class HospitalUnit {
