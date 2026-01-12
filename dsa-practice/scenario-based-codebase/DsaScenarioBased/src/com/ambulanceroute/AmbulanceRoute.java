@@ -1,4 +1,4 @@
-package ambulanceroute;
+package com.ambulanceroute;
 
 //Manages ambulance routing using Circular Linked List
 class AmbulanceRoute {
