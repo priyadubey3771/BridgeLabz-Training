@@ -1,4 +1,4 @@
-package ambulanceroute;
+package com.ambulanceroute;
 
 public class AmbulanceRouteDriver {
   public static void main(String[] args) {
