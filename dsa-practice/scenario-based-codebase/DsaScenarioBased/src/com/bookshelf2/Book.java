@@ -1,4 +1,4 @@
-package bookshelf;
+package com.bookshelf2;
 
 //represents a book in the library
 class Book {

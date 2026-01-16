@@ -1,4 +1,4 @@
-package bookshelf;
+package com.bookshelf2;
 
 import java.util.*;
 // manages the library catalog
