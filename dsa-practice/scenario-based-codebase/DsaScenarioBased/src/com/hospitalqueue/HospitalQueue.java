@@ -1,4 +1,4 @@
-package hospitalqueue;
+package com.hospitalqueue;
 
 //manages patient sorting
 public class HospitalQueue {

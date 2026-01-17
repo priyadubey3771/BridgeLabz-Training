@@ -1,4 +1,4 @@
-package hospitalqueue;
+package com.hospitalqueue;
 
 //represents a patient 
 class Patient {

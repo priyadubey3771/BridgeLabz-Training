@@ -1,4 +1,4 @@
-package hospitalqueue;
+package com.hospitalqueue;
 
 public class HospitalDriver {
   public static void main(String[] args) {
