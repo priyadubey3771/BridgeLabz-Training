@@ -1,4 +1,4 @@
-package com.personalizedmealplangenerator;
+package com.generics.personalizedmealplangenerator;
 
 //vegetarian meal plan
 class VegetarianMeal implements MealPlan {

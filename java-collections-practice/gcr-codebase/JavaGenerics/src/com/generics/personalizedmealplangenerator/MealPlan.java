@@ -1,4 +1,4 @@
-package com.personalizedmealplangenerator;
+package com.generics.personalizedmealplangenerator;
 
 //interface representing a meal plan
 interface MealPlan {

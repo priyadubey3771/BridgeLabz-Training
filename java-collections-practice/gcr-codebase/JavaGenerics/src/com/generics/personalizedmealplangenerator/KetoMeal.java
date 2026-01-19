@@ -1,4 +1,4 @@
-package com.personalizedmealplangenerator;
+package com.generics.personalizedmealplangenerator;
 
 //Keto meal plan
 class KetoMeal implements MealPlan {

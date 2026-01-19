@@ -1,4 +1,4 @@
-package com.personalizedmealplangenerator;
+package com.generics.personalizedmealplangenerator;
 
 //utility class for meal generation
 class MealPlanUtil {

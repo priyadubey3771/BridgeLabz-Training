@@ -1,4 +1,4 @@
-package com.personalizedmealplangenerator;
+package com.generics.personalizedmealplangenerator;
 
 //high protein meal plan
 class HighProteinMeal implements MealPlan {
