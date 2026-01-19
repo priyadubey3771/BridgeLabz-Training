@@ -1,4 +1,4 @@
-package com.smartwarehousemanagementsystem;
+package com.generics.smartwarehousemanagementsystem;
 
 public class SmartWarehouseDriver {
  public static void main(String[] args) {

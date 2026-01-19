@@ -1,4 +1,4 @@
-package com.smartwarehousemanagementsystem;
+package com.generics.smartwarehousemanagementsystem;
 
 import java.util.List;
 

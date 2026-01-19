@@ -1,4 +1,4 @@
-package com.smartwarehousemanagementsystem;
+package com.generics.smartwarehousemanagementsystem;
 
 class Electronics extends WarehouseItem {
 

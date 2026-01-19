@@ -1,4 +1,4 @@
-package com.smartwarehousemanagementsystem;
+package com.generics.smartwarehousemanagementsystem;
 
 //abstract parent class representing a generic warehouse item
 abstract class WarehouseItem {
