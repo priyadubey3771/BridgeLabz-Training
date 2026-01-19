@@ -1,4 +1,4 @@
-package com.dynamiconlinemarketplace;
+package com.generics.dynamiconlinemarketplace;
 
 //utility class for marketplace operations
 class MarketplaceUtil {

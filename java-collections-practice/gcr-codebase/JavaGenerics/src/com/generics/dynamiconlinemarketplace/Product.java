@@ -1,4 +1,4 @@
-package com.dynamiconlinemarketplace;
+package com.generics.dynamiconlinemarketplace;
 
 //generic Product class
 class Product<T extends Category> 

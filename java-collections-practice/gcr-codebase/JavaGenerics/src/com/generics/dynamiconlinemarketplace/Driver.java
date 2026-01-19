@@ -1,4 +1,4 @@
-package com.dynamiconlinemarketplace;
+package com.generics.dynamiconlinemarketplace;
 
 //driver class
 public class Driver {
