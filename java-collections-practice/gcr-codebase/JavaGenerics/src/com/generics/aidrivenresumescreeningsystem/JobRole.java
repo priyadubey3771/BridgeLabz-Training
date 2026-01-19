@@ -1,4 +1,4 @@
-package com.aidrivenresumescreeningsystem;
+package com.generics.aidrivenresumescreeningsystem;
 
 //abstract class representing a job role
 abstract class JobRole {

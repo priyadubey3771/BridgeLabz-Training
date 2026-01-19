@@ -1,4 +1,4 @@
-package com.aidrivenresumescreeningsystem;
+package com.generics.aidrivenresumescreeningsystem;
 
 //Product Manager role
 class ProductManager extends JobRole {

@@ -1,4 +1,4 @@
-package com.aidrivenresumescreeningsystem;
+package com.generics.aidrivenresumescreeningsystem;
 
 //data scientist role
 class DataScientist extends JobRole {

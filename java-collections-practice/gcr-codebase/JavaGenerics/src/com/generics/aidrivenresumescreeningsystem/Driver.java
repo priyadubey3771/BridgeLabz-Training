@@ -1,4 +1,4 @@
-package com.aidrivenresumescreeningsystem;
+package com.generics.aidrivenresumescreeningsystem;
 
 import java.util.ArrayList;
 import java.util.List;
