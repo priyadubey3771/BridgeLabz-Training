@@ -1,4 +1,4 @@
-package com.multileveluniversitycoursemanagementsystem;
+package com.generics.multileveluniversitycoursemanagementsystem;
 
 //assignment based course evaluation
 class AssignmentCourse extends CourseType {

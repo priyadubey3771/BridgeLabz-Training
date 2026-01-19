@@ -1,4 +1,4 @@
-package com.multileveluniversitycoursemanagementsystem;
+package com.generics.multileveluniversitycoursemanagementsystem;
 
 import java.util.List;
 

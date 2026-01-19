@@ -1,4 +1,4 @@
-package com.multileveluniversitycoursemanagementsystem;
+package com.generics.multileveluniversitycoursemanagementsystem;
 
 //abstract class representing the type of a course
 abstract class CourseType {

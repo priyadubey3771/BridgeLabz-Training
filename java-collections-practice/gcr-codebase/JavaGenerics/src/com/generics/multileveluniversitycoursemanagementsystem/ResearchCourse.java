@@ -1,4 +1,4 @@
-package com.multileveluniversitycoursemanagementsystem;
+package com.generics.multileveluniversitycoursemanagementsystem;
 
 //research-based course evaluation
 class ResearchCourse extends CourseType {
