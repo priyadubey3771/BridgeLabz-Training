@@ -340,5 +340,15 @@ BridgeLabz-Training/
 🔗**Code Link:**
  👉[scenario-based-problems(DSA)](https://github.com/priyadubey3771/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/DsaScenarioBased/src/com)  👉[scenario-based-problems(OOPS)](https://github.com/priyadubey3771/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBased/src)
 
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Day 24 – Scenario-based problems
+**Date** - 13-01-2026
 
+- Solved 3 Scenario-based-problems related to data structures
+- Solved 2 Scenario-based-problems related to java oops
+- Commited and pushed successfuly on the repository
+  
+🔗**Code Link:**
+  👉[scenario-based-problems(DSA)](https://github.com/priyadubey3771/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/DsaScenarioBased/src/com)  👉[scenario-based-problems(OOPS)](https://github.com/priyadubey3771/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OopsScenarioBased/src)
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
