@@ -397,3 +397,18 @@ BridgeLabz-Training/
     👉[Java Generics](https://github.com/priyadubey3771/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsConcepts/src/com/generics)
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------    
+## Day 29 – Java Collections
+**Date** - 19-01-2026
+
+- Studied introduction to Collection Framework
+- Studied List Interface and Implementing Classes
+- Studied Set Interface and Implementing Classes
+- Studied Queue and Deque
+- Solved related problems
+- Solved 3 scenario based problems related to DSA
+- Commited and pushed successfuly on the repository
+
+🔗**Code Link:**
+    👉[Java Collections](https://github.com/priyadubey3771/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsConcepts/src/com/collections) 👉[scenario-based-problems(DSA)](https://github.com/priyadubey3771/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/DsaScenarioBased/src/com)
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------    
