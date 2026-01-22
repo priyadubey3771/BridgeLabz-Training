@@ -412,3 +412,14 @@ BridgeLabz-Training/
     👉[Java Collections](https://github.com/priyadubey3771/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsConcepts/src/com/collections) 👉[scenario-based-problems(DSA)](https://github.com/priyadubey3771/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/DsaScenarioBased/src/com)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------    
+## Day 30 – Scenario-based problems
+ **Date** - 20-01-2026
+
+- Solved 3 Scenario-based-problems related to data structures
+- Solved 1 logical problem related to java concept
+- Commited and pushed successfuly on the repository
+  
+🔗**Code Link:** 
+    👉[scenario-based-problems(DSA)](https://github.com/priyadubey3771/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/DsaScenarioBased/src/com) 👉[logical java problem](https://github.com/priyadubey3771/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsConcepts/src/com/flipkeylogicalproblem)
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------    
