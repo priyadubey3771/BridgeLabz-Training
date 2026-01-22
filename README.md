@@ -70,3 +70,85 @@ This repository documents my day-wise learning progress in Git, GitHub, and Data
    👉[ Algorithm's Runtime Analysis & Big-O Notation](https://github.com/priyadubey3771/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDsaConcepts/src/com/runtimeanalysisandbigonotation) 
    
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Day 22 – Scenario-based problem
+**Date** - 10-01-2026
+
+ - Solved 3 Scenario-based-problems related to data structures
+ - Commited and pushed successfuly on the repository
+   
+🔗**Code Link:**
+   👉[scenario-  based-problems](https://github.com/priyadubey3771/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/DsaScenarioBased/src/com)
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+## Day 23 – Scenario-based problems
+**Date** - 12-01-2026
+
+- Solved 5 Scenario-based-problems related to data structures
+- Commited and pushed successfuly on the repository
+  
+🔗**Code Link:**
+ 👉[scenario-based-problems(DSA)](https://github.com/priyadubey3771/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/DsaScenarioBased/src/com)  
+ 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Day 24 – Scenario-based problems
+**Date** - 13-01-2026
+
+- Solved 3 Scenario-based-problems related to data structures
+- Commited and pushed successfuly on the repository
+  
+🔗**Code Link:**
+  👉[scenario-based-problems(DSA)](https://github.com/priyadubey3771/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/DsaScenarioBased/src/com) 
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+## Day 25 – Scenario-based problems
+**Date** - 15-01-2026
+
+- Solved 5 Scenario-based-problems related to data structures
+- Commited and pushed successfuly on the repository
+  
+🔗**Code Link:**
+   👉[scenario-based-problems](https://github.com/priyadubey3771/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/DsaScenarioBased/src/com) 
+   
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Day 26 – Scenario-based problems
+**Date** - 16-01-2026
+
+- Solved 3 Scenario-based-problems related to data structures
+- Commited and pushed successfuly on the repository
+  
+🔗**Code Link:**
+   👉[scenario-based-problems](https://github.com/priyadubey3771/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/DsaScenarioBased/src/com) 
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------   
+ ## Day 27 – Scenario-based problems
+ **Date** - 17-01-2026
+
+- Solved 4 Scenario-based-problems related to data structures
+- Commited and pushed successfuly on the repository
+  
+🔗**Code Link:** 
+   👉[scenario-based-problems(DSA)](https://github.com/priyadubey3771/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/DsaScenarioBased/src/com)  
+   
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+## Day 29 – Scenario-based problems
+**Date** - 19-01-2026
+
+- Studied Queue and Deque
+- Solved related problems
+- Solved 3 scenario based problems related to DSA
+- Commited and pushed successfuly on the repository
+
+🔗**Code Link:**
+   👉[scenario-based-problems(DSA)](https://github.com/priyadubey3771/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/DsaScenarioBased/src/com)
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------    
+## Day 30 – Scenario-based problems
+ **Date** - 20-01-2026
+
+- Solved 3 Scenario-based-problems related to data structures
+- Commited and pushed successfuly on the repository
+  
+🔗**Code Link:** 
+    👉[scenario-based-problems(DSA)](https://github.com/priyadubey3771/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/DsaScenarioBased/src/com) 
+    
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------    
