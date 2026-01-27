@@ -1,0 +1,12 @@
+public class Driver {
+    public static void main(String[] args) {
+
+        System.out.println("Java is a powerful programming language.");
+        System.out.println("It is widely used for web and enterprise applications.");
+        System.out.println("Java follows the object-oriented programming concept.");
+        System.out.println("It is platform independent due to the JVM.");
+        System.out.println("Learning Java helps build a strong programming foundation.");
+
+    }
+}
+
