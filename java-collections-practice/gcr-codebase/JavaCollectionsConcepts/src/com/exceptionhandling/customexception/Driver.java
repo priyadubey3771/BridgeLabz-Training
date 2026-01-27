@@ -10,8 +10,8 @@ public class Driver{
         {
             System.out.print("Enter age: ");
             int age = sc.nextInt();
-
             av.validateAge(age);
+            
         }
         catch (InvalidAgeException e)
         {
