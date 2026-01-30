@@ -1,4 +1,4 @@
-package com.reflection;
+package com.reflection.getclassinformation;
 import java.lang.reflect.Constructor;
 import java.lang.reflect.Field;
 import java.lang.reflect.Method;
