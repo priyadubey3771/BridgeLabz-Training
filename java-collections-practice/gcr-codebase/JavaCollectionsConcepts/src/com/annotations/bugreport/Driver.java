@@ -1,4 +1,4 @@
-package com.annotationsbugreport;
+package com.annotations.bugreport;
 import java.lang.reflect.Method;
 
 public class Driver {
