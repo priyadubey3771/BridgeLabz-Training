@@ -1,4 +1,4 @@
-package com.annotationsbugreport;
+package com.annotations.bugreport;
 
 public class Software {
 
