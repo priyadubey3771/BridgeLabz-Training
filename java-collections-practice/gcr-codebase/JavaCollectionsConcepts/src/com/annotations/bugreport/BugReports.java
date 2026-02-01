@@ -1,4 +1,4 @@
-package com.annotationsbugreport;
+package com.annotations.bugreport;
 
 import java.lang.annotation.Retention;
 import java.lang.annotation.RetentionPolicy;
