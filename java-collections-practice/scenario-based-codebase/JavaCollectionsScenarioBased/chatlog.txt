@@ -1,6 +1,0 @@
-[12:02 PM] John: Hey, the build failed again!
-[12:03 PM] Mary: I’ll check the Jenkins pipeline.
-[12:05 PM] John: lol brb
-[12:06 PM] Alice: Good morning everyone
-[12:10 PM] Bob: Did you see the latest commit?
-[12:12 PM] Mary: haha

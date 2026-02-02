@@ -1,4 +1,0 @@
-DealCode: SAVE20
-ValidTill: 10-01-2023
-Discount: 20%
-MinimumPurchase: 500
