@@ -6,12 +6,9 @@ import java.util.regex.*;
 
 public class ChatLogParser {
 
-    private static final String REGEX =
-            "\\[(.*?)\\]\\s+(.*?):\\s+(.*)";
+    private static final String REGEX = "\\[(.*?)\\]\\s+(.*?):\\s+(.*)";
 
-    public static Map<String, List<String>> parseChat(
-            String filePath,
-            MessageFilter<String> filter) throws IOException {
+    public static Map<String, List<String>> parseChat(String filePath,MessageFilter<String> filter) throws IOException {
 
         Map<String, List<String>> map = new TreeMap<>();
 
@@ -20,18 +17,19 @@ public class ChatLogParser {
 
         Pattern pattern = Pattern.compile(REGEX);
 
-        while ((line = br.readLine()) != null) {
+        while ((line = br.readLine()) != null) 
+        {
             Matcher m = pattern.matcher(line);
 
-            if (m.find()) {
+            if (m.find()) 
+            {
                 String time = m.group(1);
                 String user = m.group(2);
                 String message = m.group(3);
 
                 if (!filter.filter(message)) continue;
 
-                map.computeIfAbsent(user, k -> new ArrayList<>())
-                   .add("[" + time + "] " + message);
+                map.computeIfAbsent(user, k -> new ArrayList<>()).add("[" + time + "] " + message);
             }
         }
 
