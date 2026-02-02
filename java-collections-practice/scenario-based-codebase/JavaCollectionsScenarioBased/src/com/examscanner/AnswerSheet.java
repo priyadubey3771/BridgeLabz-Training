@@ -1,0 +1,22 @@
+package com.examscanner;
+
+import java.util.List;
+
+public class AnswerSheet<T> {
+
+    protected String studentName;
+    protected List<T> answers;
+
+    public AnswerSheet(String studentName, List<T> answers) {
+        this.studentName = studentName;
+        this.answers = answers;
+    }
+
+    public String getStudentName() {
+        return studentName;
+    }
+
+    public List<T> getAnswers() {
+        return answers;
+    }
+}
