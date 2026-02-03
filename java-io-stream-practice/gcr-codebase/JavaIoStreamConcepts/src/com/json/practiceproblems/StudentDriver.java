@@ -5,6 +5,7 @@ import java.util.Arrays;
 
 public class StudentDriver {
     public static void main(String[] args) throws Exception {
+    	
         ObjectMapper mapper = new ObjectMapper();
 
         Student student = new Student();
@@ -21,12 +22,30 @@ class Student {
     private int age;
     private java.util.List<String> subjects;
 
-    public String getName() { return name; }
-    public void setName(String name) { this.name = name; }
+    public String getName() 
+    { 
+    	return name; 
+    }
+    public void setName(String name) 
+    { 
+    	this.name = name; 
+    }
 
-    public int getAge() { return age; }
-    public void setAge(int age) { this.age = age; }
+    public int getAge() 
+    { 
+    	return age; 
+    }
+    public void setAge(int age) 
+    { 
+    	this.age = age; 
+    }
 
-    public java.util.List<String> getSubjects() { return subjects; }
-    public void setSubjects(java.util.List<String> subjects) { this.subjects = subjects; }
+    public java.util.List<String> getSubjects() 
+    { 
+    	return subjects; 
+    }
+    public void setSubjects(java.util.List<String> subjects) 
+    { 
+    	this.subjects = subjects; 
+    }
 }
