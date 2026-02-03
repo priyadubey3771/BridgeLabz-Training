@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Priya",
+    "marks": {
+      "English": 92,
+      "Science": 88,
+      "Math": 95,
+      "History": 85
+    },
+    "total": 360,
+    "average": 90.0,
+    "grade": "A+"
+  },
+  {
+    "name": "Rohit",
+    "marks": {
+      "English": 80,
+      "Science": 85,
+      "Math": 78,
+      "History": 70
+    },
+    "total": 313,
+    "average": 78.25,
+    "grade": "B"
+  },
+  {
+    "name": "Anil",
+    "marks": {
+      "English": 70,
+      "Science": 0,
+      "Math": 60,
+      "History": 55
+    },
+    "total": 185,
+    "average": 46.25,
+    "grade": "D"
+  },
+  {
+    "name": "Sneha",
+    "marks": {
+      "English": 85,
+      "Science": 92,
+      "Math": 88,
+      "History": 90
+    },
+    "total": 355,
+    "average": 88.75,
+    "grade": "A"
+  }
+]
