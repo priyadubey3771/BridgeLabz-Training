@@ -6,6 +6,7 @@ import com.fasterxml.jackson.databind.node.ObjectNode;
 
 public class MergeJsonDriver {
     public static void main(String[] args) throws Exception {
+    	
         ObjectMapper mapper = new ObjectMapper();
 
         String json1 = "{\"name\":\"Priya\", \"age\":22}";
