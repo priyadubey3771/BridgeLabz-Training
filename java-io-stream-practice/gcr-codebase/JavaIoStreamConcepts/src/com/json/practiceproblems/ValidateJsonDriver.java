@@ -7,10 +7,13 @@ public class ValidateJsonDriver {
         String json = "{\"name\":\"Priya\",\"age\":22}";
 
         ObjectMapper mapper = new ObjectMapper();
-        try {
+        try 
+        {
             mapper.readTree(json);
             System.out.println("Valid JSON");
-        } catch (Exception e) {
+        } 
+        catch (Exception e) 
+        {
             System.out.println("Invalid JSON: " + e.getMessage());
         }
     }
