@@ -6,11 +6,14 @@ import java.io.File;
 
 public class FilterJsonDriver {
     public static void main(String[] args) throws Exception {
+    	
         ObjectMapper mapper = new ObjectMapper();
         JsonNode root = mapper.readTree(new File("users.json"));
 
-        for (JsonNode node : root) {
-            if (node.get("age").asInt() > 25) {
+        for (JsonNode node : root) 
+        {
+            if (node.get("age").asInt() > 25) 
+            {
                 System.out.println(node.toPrettyString());
             }
         }
