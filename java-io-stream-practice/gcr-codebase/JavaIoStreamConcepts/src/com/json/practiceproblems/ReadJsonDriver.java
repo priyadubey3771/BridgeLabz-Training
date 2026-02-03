@@ -6,12 +6,13 @@ import java.io.File;
 
 public class ReadJsonDriver {
     public static void main(String[] args) throws Exception {
+    	
         ObjectMapper mapper = new ObjectMapper();
         JsonNode root = mapper.readTree(new File("users.json"));
 
-        for (JsonNode node : root) {
-            System.out.println("Name: " + node.get("name").asText() +
-                               ", Email: " + node.get("email").asText());
+        for (JsonNode node : root) 
+        {
+            System.out.println("Name: " + node.get("name").asText() + ", Email: " + node.get("email").asText());
         }
     }
 }
