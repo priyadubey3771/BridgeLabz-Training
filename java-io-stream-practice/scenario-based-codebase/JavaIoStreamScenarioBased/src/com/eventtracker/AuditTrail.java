@@ -5,6 +5,7 @@ import java.lang.annotation.RetentionPolicy;
 
 // Marks methods for audit logging
 @Retention(RetentionPolicy.RUNTIME)
-public @interface AuditTrail {
-    String action() default "UNKNOWN"; // Optional metadata about the action
+public @interface AuditTrail
+{
+    String action() default "UNKNOWN"; 
 }
