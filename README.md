@@ -588,17 +588,37 @@ BridgeLabz-Training/
  ## Day 42 - Stream API
  **Date** - 01-02-2026
  
-- Studied Intermediate operations: filter, map, flatMap, distinct, sorted, peek, limit, skip. 
-- Terminal operations: collect, forEach, reduce, count, anyMatch, allMatch, noneMatch. 
-- Stateless vs stateful operations: filter is stateless; sorted and distinct are stateful.
-- Ordered vs unordered streams
-- Parallel streams
-- forEach() — Iterable vs Stream
-- Solved related problems
-- Commited and pushed successfuly on the repository
+ - Studied Intermediate operations: filter, map, flatMap, distinct, sorted, peek, limit, skip. 
+ - Terminal operations: collect, forEach, reduce, count, anyMatch, allMatch, noneMatch. 
+ - Stateless vs stateful operations: filter is stateless; sorted and distinct are stateful.
+ - Ordered vs unordered streams
+ - Parallel streams
+ - forEach() — Iterable vs Stream
+ - Solved related problems
+ - Commited and pushed successfuly on the repository
 
   🔗**Code Link:**
   👉[Stream API](https://github.com/priyadubey3771/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8Concepts/src/com/streamapi)
 
   --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  
+  ## Day 43 - Collectors
+  **Date** - 02-02-2026
+
+  - Studied Collectors
+  - Roles and Capabilities of collectors
+
+  🔗**Code Link:**
+  👉[Collectors](https://github.com/priyadubey3771/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8Concepts/src/com/collectors)
+
+  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  ## Day 44 - Workshop on Java 8 Features
+  **Date** - 03-02-2026
+
+  - Workshop - Smart City Transport & Service Management System
+  -  Solved related problems
+  - Commited and pushed successfuly on the repository
+
+ 🔗**Code Link:**
+  👉[Workshop on Java 8 Features](https://github.com/priyadubey3771/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8Concepts/src/com/workshoponjava8features/smartcitytransportandservicemanagementsystem)
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
