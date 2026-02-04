@@ -578,8 +578,27 @@ BridgeLabz-Training/
 - Functional Interfaces
 - Default and Static Methods in Interfaces
 - Marker Interfaces
-
+- Solved related problems
+- Commited and pushed successfuly on the repository
+  
  🔗**Code Link:**
   👉[Functional Interfaces](https://github.com/priyadubey3771/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8Concepts/src/com/functionalinterfaces)
 
  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ ## Day 42 - Stream API
+ **Date** - 01-02-2026
+ 
+- Studied Intermediate operations: filter, map, flatMap, distinct, sorted, peek, limit, skip. 
+- Terminal operations: collect, forEach, reduce, count, anyMatch, allMatch, noneMatch. 
+- Stateless vs stateful operations: filter is stateless; sorted and distinct are stateful.
+- Ordered vs unordered streams
+- Parallel streams
+- forEach() — Iterable vs Stream
+- Solved related problems
+- Commited and pushed successfuly on the repository
+
+  🔗**Code Link:**
+  👉[Stream API](https://github.com/priyadubey3771/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8Concepts/src/com/streamapi)
+
+  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  
