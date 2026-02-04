@@ -489,7 +489,21 @@ BridgeLabz-Training/
 - Using Reflection in Java
 - Commited and pushed successfuly on the repository
   
-🔗Code Link:
+🔗**Code Link:**
 👉[Reflection](https://github.com/priyadubey3771/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsConcepts/src/com/reflection)
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Day 35 – Annotations
+**Date** - 26-01-2026
+
+- Studied Common Built-in Annotations
+- Creating Custom Annotations
+- Advanced Custom Annotations
+- Real-World Use Cases
+- Annotation Processing Tools
+- Commited and pushed successfuly on the repository
+  
+🔗**Code Link:**
+👉 [Annotation](https://github.com/priyadubey3771/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsConcepts/src/com/annotations)
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
