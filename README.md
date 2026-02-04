@@ -482,3 +482,14 @@ BridgeLabz-Training/
    👉[Junit](https://github.com/priyadubey3771/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsConcepts/src/com/junit)
    
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------   
+## Day 34 – Reflection
+**Date** - 24-01-2026
+
+- Studied Introduction to Reflection
+- Using Reflection in Java
+- Commited and pushed successfuly on the repository
+  
+🔗Code Link:
+👉[Reflection](https://github.com/priyadubey3771/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsConcepts/src/com/reflection)
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
