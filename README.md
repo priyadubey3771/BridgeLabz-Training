@@ -414,12 +414,34 @@ BridgeLabz-Training/
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------    
 ## Day 30 – Scenario-based problems
  **Date** - 20-01-2026
-
+ 
+- Studied introduction to Java I/O Streams
+ - Studied Types of Streams
+ - File Streams
+ - Object Streams
+ - ByteArray Streams
+ - Buffered Streams
+ - Reader and Writer
+- Solved related problems
 - Solved 3 Scenario-based-problems related to data structures
-- Solved 1 logical problem related to java concept
 - Commited and pushed successfuly on the repository
   
 🔗**Code Link:** 
     👉[scenario-based-problems(DSA)](https://github.com/priyadubey3771/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/DsaScenarioBased/src/com) 👉[logical java problem](https://github.com/priyadubey3771/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsConcepts/src/com/flipkeylogicalproblem)
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------    
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Day 31 – Java Exception Handling
+**Date** - 21-01-2026
+
+- Studied Exceptions
+- Studied Types of Exceptions
+ - Checked Exceptions
+ - Unchecked Exceptions
+- Studied Exception Handling using try-catch and finally blocks
+- Solved related problems
+- Commited and pushed successfuly on the repository
+- 
+🔗**Code Link:**
+   👉[Exception Handling](https://github.com/priyadubey3771/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsConcepts/src/com/exceptionhandling)
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------   
