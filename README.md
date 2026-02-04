@@ -586,7 +586,7 @@ BridgeLabz-Training/
 
  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
  ## Day 42 - Stream API
- **Date** - 01-02-2026
+ **Date** - 02-02-2026
  
  - Studied Intermediate operations: filter, map, flatMap, distinct, sorted, peek, limit, skip. 
  - Terminal operations: collect, forEach, reduce, count, anyMatch, allMatch, noneMatch. 
@@ -602,7 +602,7 @@ BridgeLabz-Training/
 
   --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   ## Day 43 - Collectors
-  **Date** - 02-02-2026
+  **Date** - 03-02-2026
 
   - Studied Collectors
   - Roles and Capabilities of collectors
@@ -612,7 +612,7 @@ BridgeLabz-Training/
 
   --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   ## Day 44 - Workshop on Java 8 Features
-  **Date** - 03-02-2026
+  **Date** - 04-02-2026
 
   - Workshop - Smart City Transport & Service Management System
   -  Solved related problems
