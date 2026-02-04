@@ -542,3 +542,33 @@ BridgeLabz-Training/
  👉 [CSV Data Handling](https://github.com/priyadubey3771/BridgeLabz-Training/tree/java-io-stream-practice/java-io-stream-practice/gcr-codebase/JavaIoStreamConcepts/src/com/csv)
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ 
+## Day 39 - JSON Data
+**Date** - 29-01-2026
+
+- Studied Introduction to JSON
+- Reading JSON Data
+- Writing JSON Data
+- Parsing JSON Data
+- JSON Schema Validation
+- Solved related problems
+- Commited and pushed successfuly on the repository
+
+🔗**Code Link:**
+ 👉[JSON Data](https://github.com/priyadubey3771/BridgeLabz-Training/tree/java-io-stream-practice/java-io-stream-practice/gcr-codebase/JavaIoStreamConcepts/src/com/json)
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Day 40 - Scenario-based-problems and Lambda Expressions
+**Date** - 30-01-2026
+
+- Studied:
+  - Lambda Expressions
+  - Method References
+- Solved related problems
+- Solved 3 scenario-based problems involving Annotations,Reflection, CSV & JSON data handling
+- Commited and pushed successfuly on the repository
+
+ 🔗**Code Link:**
+ 👉 [Lambda Expressions](https://github.com/priyadubey3771/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8Concepts/src/com/lambdaexpressions) 👉 [Scenario-based-problems](https://github.com/priyadubey3771/BridgeLabz-Training/tree/java-io-stream-practice/java-io-stream-practice/scenario-based-codebase/JavaIoStreamScenarioBased/src/com) 
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ 
