@@ -504,6 +504,41 @@ BridgeLabz-Training/
 - Commited and pushed successfuly on the repository
   
 🔗**Code Link:**
-👉 [Annotation](https://github.com/priyadubey3771/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsConcepts/src/com/annotations)
+ 👉 [Annotation](https://github.com/priyadubey3771/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsConcepts/src/com/annotations)
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Day 36 – Scenario-based-problems
+**Date** - 27-01-2026
+
+- Solved 5 scenario-based problems related to collections
+- Commited and pushed successfuly on the repository
+  
+🔗**Code Link:**
+ 👉 [Scenario-based-problems](https://github.com/priyadubey3771/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/scenario-based-codebase/JavaCollectionsScenarioBased/src/com)
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Day 37 – Scenario-based-problems
+**Date** - 28-01-2026
+
+- Solved 5 scenario-based problems related to java collections
+- Commited and pushed successfuly on the repository
+  
+🔗**Code Link:**
+ 👉 [Scenario-based-problems](https://github.com/priyadubey3771/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/scenario-based-codebase/JavaCollectionsScenarioBased/src/com)
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Day 38 – CSV Data Handling
+**Date** - 28-01-2026
+
+- Studied Introduction to CSV
+- Reading CSV Files
+- Writing CSV Files
+- Parsing CSV Data
+- Data Validation
+- Solved related problems
+- Commited and pushed successfuly on the repository
+  
+🔗**Code Link:**
+ 👉 [CSV Data Handling](https://github.com/priyadubey3771/BridgeLabz-Training/tree/java-io-stream-practice/java-io-stream-practice/gcr-codebase/JavaIoStreamConcepts/src/com/csv)
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ 
