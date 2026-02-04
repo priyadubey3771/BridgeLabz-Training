@@ -467,3 +467,18 @@ BridgeLabz-Training/
    👉[Regex](https://github.com/priyadubey3771/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsConcepts/src/com/regex)
    
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------   
+## Day 33 – Junit
+**Date** - 23-01-2026
+
+- Studied Introduction to JUnit Framework
+- Studied JUnit Annotations
+- Studied Writing Test Cases
+- Structure of a Test Class
+- Assertions
+- Solved related problems
+- Commited and pushed successfuly on the repository
+  
+🔗**Code Link:**
+   👉[Junit](https://github.com/priyadubey3771/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsConcepts/src/com/junit)
+   
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------   
