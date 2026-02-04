@@ -571,4 +571,15 @@ BridgeLabz-Training/
  👉 [Lambda Expressions](https://github.com/priyadubey3771/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8Concepts/src/com/lambdaexpressions) 👉 [Scenario-based-problems](https://github.com/priyadubey3771/BridgeLabz-Training/tree/java-io-stream-practice/java-io-stream-practice/scenario-based-codebase/JavaIoStreamScenarioBased/src/com) 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
- 
+## Day 41 - Functional Interfaces
+**Date** - 31-01-2026
+
+- Studied Defining and Implementing Interfaces (Best Practices)
+- Functional Interfaces
+- Default and Static Methods in Interfaces
+- Marker Interfaces
+
+ 🔗**Code Link:**
+  👉[Functional Interfaces](https://github.com/priyadubey3771/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8Concepts/src/com/functionalinterfaces)
+
+ ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
