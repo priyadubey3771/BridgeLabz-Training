@@ -440,8 +440,30 @@ BridgeLabz-Training/
 - Studied Exception Handling using try-catch and finally blocks
 - Solved related problems
 - Commited and pushed successfuly on the repository
-- 
+  
 🔗**Code Link:**
    👉[Exception Handling](https://github.com/priyadubey3771/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsConcepts/src/com/exceptionhandling)
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------   
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Day 32 – Java Regex
+**Date** - 22-01-2026
+
+- Studied :
+- Common Patterns:
+ - Email Validation
+ - Password Strength
+ - Phone Number Format
+- Java Regex API
+ - Pattern
+ - Matcher
+- Methods:
+ - find()
+ - matches()
+ - replaceAll()
+- Solved related problems
+- Commited and pushed successfuly on the repository
+  
+🔗**Code Link:**
+   👉[Regex](https://github.com/priyadubey3771/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsConcepts/src/com/regex)
+   
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------   
