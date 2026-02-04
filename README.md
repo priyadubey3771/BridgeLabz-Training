@@ -450,16 +450,16 @@ BridgeLabz-Training/
 
 - Studied :
 - Common Patterns:
- - Email Validation
- - Password Strength
- - Phone Number Format
+  - Email Validation
+  - Password Strength
+  - Phone Number Format
 - Java Regex API
- - Pattern
- - Matcher
+  - Pattern
+  - Matcher
 - Methods:
- - find()
- - matches()
- - replaceAll()
+  - find()
+  - matches()
+  - replaceAll()
 - Solved related problems
 - Commited and pushed successfuly on the repository
   
