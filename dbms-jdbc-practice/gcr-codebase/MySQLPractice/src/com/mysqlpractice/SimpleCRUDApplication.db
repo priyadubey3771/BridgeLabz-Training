@@ -1,0 +1,73 @@
+// create database
+  Create Database employee_db;
+  
+// use employee database
+ USE employee_db;
+ 
+ // select database
+  SELECT Database();
++-------------+
+| Database()  |
++-------------+
+| employee_db |
++-------------+
+
+// create employee table
+CREATE TABLE employees( emp_id INT AUTO_INCREMENT PRIMARY KEY, name VARCHAR(100) NOT NULL, department VARCHAR(50), salary DECIMAL(10,2));
+
+// show employee table
+ DESC employees;
++------------+---------------+------+-----+---------+----------------+
+| Field      | Type          | Null | Key | Default | Extra          |
++------------+---------------+------+-----+---------+----------------+
+| emp_id     | int           | NO   | PRI | NULL    | auto_increment |
+| name       | varchar(100)  | NO   |     | NULL    |                |
+| department | varchar(50)   | YES  |     | NULL    |                |
+| salary     | decimal(10,2) | YES  |     | NULL    |                |
++------------+---------------+------+-----+---------+----------------+
+
+// insert data into employees table
+INSERT INTO employees (name, department, salary) VALUES ('Priya Dubey', 'IT' , 60000), ('Saurav Dwivedi', 'HR', 45000), ('Golu Dubey', 'Finance', 55000);
+
+//display from employees table
+ SELECT * FROM employees;
++--------+----------------+------------+----------+
+| emp_id | name           | department | salary   |
++--------+----------------+------------+----------+
+|      1 | Priya Dubey    | IT         | 60000.00 |
+|      2 | Saurav Dwivedi | HR         | 45000.00 |
+|      3 | Golu Dubey     | Finance    | 55000.00 |
++--------+----------------+------------+----------+
+
+//update employees table
+ UPDATE employees SET salary = 50000 where name = 'Saurav Dwivedi';
+ 
+ //display from employees table
+  SELECT * FROM employees;
++--------+----------------+------------+----------+
+| emp_id | name           | department | salary   |
++--------+----------------+------------+----------+
+|      1 | Priya Dubey    | IT         | 60000.00 |
+|      2 | Saurav Dwivedi | HR         | 50000.00 |
+|      3 | Golu Dubey     | Finance    | 55000.00 |
++--------+----------------+------------+----------+
+
+//delete from employees
+ Delete from employees where name = 'Golu Dubey';
+ 
+ //display from employees table
+  SELECT * FROM employees;
++--------+----------------+------------+----------+
+| emp_id | name           | department | salary   |
++--------+----------------+------------+----------+
+|      1 | Priya Dubey    | IT         | 60000.00 |
+|      2 | Saurav Dwivedi | HR         | 50000.00 |
++--------+----------------+------------+----------+
+ 
+ // select a specific employee detail
+ SELECT * from employees where name = 'Priya Dubey';
++--------+-------------+------------+----------+
+| emp_id | name        | department | salary   |
++--------+-------------+------------+----------+
+|      1 | Priya Dubey | IT         | 60000.00 |
++--------+-------------+------------+----------+
