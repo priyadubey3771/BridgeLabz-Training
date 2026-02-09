@@ -1,0 +1,47 @@
+// create database
+ CREATE DATABASE bank_db;
+ 
+ //select database
+  USE bank_db;
+  
+  // create accounts table
+   create table accounts (acc_no INT PRIMARY KEY, name VARCHAR(100), balance DECIMAL(10,2));
+   
+  // create transaction history table
+   create table transactions (transaction_id INT AUTO_INCREMENT PRIMARY KEY, from_account INT, to_account INT, amount DECIMAL(10,2), transaction_date TIMESTAMP DEFAULT CURRENT_TIMESTAMP);
+   
+  //insert sample accounts
+   Insert into accounts values (101, 'Priya', 10000), (102, 'Piyush', 8000);
+   
+   //start transaction
+    Start transaction;
+    
+   // debit from sender account
+    update accounts set balance = balance - 2000 where acc_no = 101;
+    
+   //credit to receiver account
+    update accounts set balance = balance + 2000 where acc_no = 102;
+    
+   //insert transaction record
+    Insert into transactions (from_account, to_account, amount) values (101, 102, 2000);
+    
+   // commit transaction
+    commit;
+    
+   // check balance
+   
+   select acc_no, name, balance FROM accounts;
++--------+--------+----------+
+| acc_no | name   | balance  |
++--------+--------+----------+
+|    101 | Priya  |  8000.00 |
+|    102 | Piyush | 10000.00 |
++--------+--------+----------+
+
+//View Transaction History
+ select* from transactions;
++----------------+--------------+------------+---------+---------------------+
+| transaction_id | from_account | to_account | amount  | transaction_date    |
++----------------+--------------+------------+---------+---------------------+
+|              1 |          101 |        102 | 2000.00 | 2026-02-09 16:46:33 |
++----------------+--------------+------------+---------+---------------------+
